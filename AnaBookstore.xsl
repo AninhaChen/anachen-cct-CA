@@ -9,7 +9,7 @@
                 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
                 <link href="AnaBookstoreStyles.css" rel="stylesheet" type="text/css" />
                 <!-- Include the JavaScript code for processing the XML data -->
-                <script src="AnaBookstore.js"></script>
+                <script src="AnaBookstoreCode.js"></script>
                 <script>
 			        window.addEventListener("load", function() {
 			            document.forms[0].txtBillAmt.value = calculateBill('bookTable');
