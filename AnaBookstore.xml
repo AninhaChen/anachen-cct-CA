@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="AnaBookstore.xsl"?>
+<bookstore>
+    <section name="Fiction">
+        <book available="true">
+            <title>The giver of stars</title>
+            <author>Jojo Moyers</author>
+            <price>12.99</price>
+        </book>
+        <book available="false">
+            <title>The institute</title>
+            <author>Stephen King</author>
+            <price>25.00</price>
+        </book>
+        <book available="true">
+            <title>A Game of Thrones</title>
+            <author>George R. R. Martin</author>
+            <price>18.99</price>
+        </book>
+     </section>
+    
+     <section name="Cooking">
+        <book available="true">
+            <title>Joy of cooking</title>
+            <author>Irma S. Rombauer</author>
+            <price>13.99</price>
+        </book>
+        <book available="false">
+            <title>Veg</title>
+            <author>Jamie Oliver</author>
+            <price>19.00</price>
+        </book>
+        <book available="true">
+            <title>On Food and Cooking</title>
+            <author>Harold McGee</author>
+            <price>25.00</price>
+        </book>
+     </section>
+    
+     <section name="History">
+        <book available="true">
+            <title>1491</title>
+            <author>Charles C. Mann</author>
+            <price>31.00</price>
+        </book>
+        <book available="false">
+            <title>The Lessons of History</title>
+            <author>Will Durant</author>
+            <price>22.00</price>
+        </book>
+        <book available="false">
+            <title>A Little History of the World</title>
+            <author>Ernst Gombrich</author>
+            <price>22.99</price>
+        </book>
+     </section>
+    
+     <section name="Computer">
+        <book available="true">
+            <title>Code: The Hidden Language of Computer Hardware and Software</title>
+            <author>Charles Petzold</author>
+            <price>33.99</price>
+        </book>
+        <book available="false">
+            <title>The Art of Computer Programming</title>
+            <author>Donald Knuth</author>
+            <price>35.00</price>
+        </book>
+        <book available="true">
+            <title>Hello World: How to be Human in the Age of the Machine</title>
+            <author>Hannah Fry</author>
+            <price>28.99</price>
+        </book>
+     </section>
+       
+</bookstore>
