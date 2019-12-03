@@ -31,7 +31,7 @@ function calculateBill(idbookTable) {
 
 										// This function either turns on or off the row highlighting for vegetarian
 										// items (depending on the value of bShowAva)
-function highlightVegetarian(idTable, bShowAva) {
+function highlightAvailable(idTable, bShowAva) {
 										// if bShowAva is true, then we're highlighting availables
 										//	books, otherwise we're unhighlighting them.
 	var i=0;
