@@ -7,7 +7,7 @@
             <author>Jojo Moyers</author>
             <price>12.99</price>
         </book>
-        <book available="false">
+        <book>
             <title>The institute</title>
             <author>Stephen King</author>
             <price>25.00</price>
@@ -25,7 +25,7 @@
             <author>Irma S. Rombauer</author>
             <price>13.99</price>
         </book>
-        <book available="false">
+        <book>
             <title>Veg</title>
             <author>Jamie Oliver</author>
             <price>19.00</price>
@@ -43,7 +43,7 @@
             <author>Charles C. Mann</author>
             <price>31.00</price>
         </book>
-        <book available="false">
+        <book>
             <title>The Lessons of History</title>
             <author>Will Durant</author>
             <price>22.00</price>
@@ -61,7 +61,7 @@
             <author>Charles Petzold</author>
             <price>33.99</price>
         </book>
-        <book available="false">
+        <book>
             <title>The Art of Computer Programming</title>
             <author>Donald Knuth</author>
             <price>35.00</price>
