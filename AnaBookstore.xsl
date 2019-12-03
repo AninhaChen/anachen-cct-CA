@@ -24,12 +24,12 @@
             </head>
             <body>
                 <h2>
-                    <img src="javaco_bookshop_logo.gif" alt="Javaco Tea Logo" width="58" height="100" />Welcome to Ana's Book Shop</h2>
+                    <img src="bookstore.png" alt="Javaco Tea Logo" width="58" height="100" />Welcome to Ana's Book Shop</h2>
                 <p>Select your entrees from the menu below. To calculate the amount of the bill, click the Calculate Bill button. Check the "Highlight Available" box to highlight availables books in the store.</p>
                 <table id="bookTable" border="1" class="indent">
                     <thead>
                         <tr>
-                            <th colspan="3">Ana's Shop Store</th>
+                            <th colspan="3">Ana's Book Store</th>
                         </tr>
                         <tr>
                             <th>Select</th>
